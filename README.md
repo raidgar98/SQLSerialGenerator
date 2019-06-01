@@ -66,6 +66,8 @@ If u have any troubles or ideas what can i add into this miniProject mail me:
 
 	raidgar98@onet.pl
 
-with Title: [GitHub] SQLSerialGenerator
+with Title: 
+	
+	[GitHub] SQLSerialGenerator
 
 so my email filter can filter it from SPAM to another directory :)
